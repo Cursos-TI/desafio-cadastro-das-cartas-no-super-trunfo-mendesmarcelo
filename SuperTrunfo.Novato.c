@@ -24,15 +24,14 @@ printf(" Digite a população: \n");
 scanf("%d", &populacao);
 
 printf("Digite a área em km2:\n");
-scanf("%f, &area);
-
-    printf("Digite o PIB:\n");
+scanf("%f", &area);
+  printf("Digite o PIB:\n");
 scanf("%f", &PIB);
 
 printf("Digite a quantidade de pontos turísticos:\n");
 scanf("%d", &pontos);
 
-
+printf("Nome do Estado: %s\n");
 
 
 
