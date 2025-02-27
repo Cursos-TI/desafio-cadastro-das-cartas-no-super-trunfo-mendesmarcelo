@@ -29,7 +29,7 @@ scanf("%f", &area);
 scanf("%f", &pib);
 
 printf("Digite a quantidade de pontos turísticos:\n");
-scanf("%d", &pontos);
+scanf("%f", &pontos);
 
 
     printf("Nome do Estado: %s\n", estado);
@@ -43,3 +43,4 @@ scanf("%d", &pontos);
 
 
 return 0;
+}
